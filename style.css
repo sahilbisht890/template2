@@ -16,7 +16,7 @@ overflow-y: hidden;
 }
 li{
     display: inline-block;
-    font-size: 18px;
+    font-size: 16px;
     margin-right: 40px;
 color: #ffffff;
 font-family:"Roboto Mono", monospace;
@@ -43,16 +43,16 @@ font-family:"Roboto Mono", monospace;
 {
     display: inline-block;
     position: relative;
-    left: 500px;
-    top:-30px;
+    top:15px;
+
 }
 
 
 .options{
     
     position: relative;
-    margin-left: 620px;
-    top:-40px
+    margin-left: 640px;
+    top:-65px
 }
 
 
@@ -67,7 +67,7 @@ font-family:"Roboto Mono", monospace;
 }
 .Marketing h3
 {
-  font-size: 19px;
+  font-size: 21px;
   line-height: 4px;  
   font-family: "Poppins",sans-serif;
   font-weight: 100;
@@ -111,7 +111,7 @@ font-weight: 800;
 
 .middle_section 
 {
-    margin-left: 100px;
+    margin-left: 110px;
     position: relative;
     top: -60px;
 }
@@ -119,6 +119,8 @@ font-weight: 800;
 .top{
     position: relative;
     top:-20px;
+    left: 10px;
+
 }
 
 pre{
@@ -158,7 +160,7 @@ input[type="submit"]
     position: relative;
     width: 620px;
     height: 480px;
-    right: -55px;
+    right: -45px;
     top:-40px;
 
 }
@@ -166,7 +168,7 @@ input[type="submit"]
 {
   height: 10px;
   width: 200px;
- padding-left: 550px;
+ padding-left: 570px;
 }
 
 .content{
